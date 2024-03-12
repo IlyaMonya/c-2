@@ -1,0 +1,15 @@
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\Task01.AssemblyInfoInputs.cache
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\Task01.AssemblyInfo.cs
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\Task01.csproj.CoreCompileInputs.cache
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\Task01.sourcelink.json
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\bin\Debug\net8.0\Task01.exe
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\bin\Debug\net8.0\Task01.deps.json
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\bin\Debug\net8.0\Task01.runtimeconfig.json
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\bin\Debug\net8.0\Task01.dll
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\bin\Debug\net8.0\Task01.pdb
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\Task01.dll
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\refint\Task01.dll
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\Task01.pdb
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\Task01.genruntimeconfig.cache
+C:\Users\Повелитель Вселенной\Desktop\Stude\c#2\Task01\obj\Debug\net8.0\ref\Task01.dll
