@@ -1,0 +1,15 @@
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\bin\Debug\net8.0\Task11-algorithm.exe
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\bin\Debug\net8.0\Task11-algorithm.deps.json
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\bin\Debug\net8.0\Task11-algorithm.runtimeconfig.json
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\bin\Debug\net8.0\Task11-algorithm.dll
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\bin\Debug\net8.0\Task11-algorithm.pdb
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\Task11-algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\Task11-algorithm.AssemblyInfoInputs.cache
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\Task11-algorithm.AssemblyInfo.cs
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\Task11-algorithm.csproj.CoreCompileInputs.cache
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\Task11-algorithm.sourcelink.json
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\Task11-algorithm.dll
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\refint\Task11-algorithm.dll
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\Task11-algorithm.pdb
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\Task11-algorithm.genruntimeconfig.cache
+C:\Users\sursu\Desktop\Stude\c#2\Task11-algorithm\obj\Debug\net8.0\ref\Task11-algorithm.dll
