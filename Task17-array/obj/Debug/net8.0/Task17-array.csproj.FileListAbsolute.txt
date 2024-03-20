@@ -1,0 +1,15 @@
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\Task17-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\Task17-array.AssemblyInfoInputs.cache
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\Task17-array.AssemblyInfo.cs
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\Task17-array.csproj.CoreCompileInputs.cache
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\Task17-array.sourcelink.json
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\bin\Debug\net8.0\Task17-array.exe
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\bin\Debug\net8.0\Task17-array.deps.json
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\bin\Debug\net8.0\Task17-array.runtimeconfig.json
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\bin\Debug\net8.0\Task17-array.dll
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\bin\Debug\net8.0\Task17-array.pdb
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\Task17-array.dll
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\refint\Task17-array.dll
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\Task17-array.pdb
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\Task17-array.genruntimeconfig.cache
+C:\Users\sursu\Desktop\Stude\c#2\Task17-array\obj\Debug\net8.0\ref\Task17-array.dll
